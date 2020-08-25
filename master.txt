@@ -1,7 +1,11 @@
 hola
 que tal
+<<<<<<< HEAD
 pues muy bien
 voy a probar una cosa
 I am talking in english!
 How are you?--la parte de frances
 ca va!!
+=======
+pues muy bien
+>>>>>>> 4342d67... pues muy bien
